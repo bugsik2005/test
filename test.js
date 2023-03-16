@@ -4,4 +4,5 @@
 const test = "test";
 alert("Привіт!")
 
-blablablab
+whoami
+iamolga
